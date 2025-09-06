@@ -1,4 +1,4 @@
-## Tableau Dashboard — KPI Dashboard
+## Call Center KPI Dashboard for Monthly Performance Insights
 
 [![KPI Dashboard Preview](KPI_dashboard_preview.png)](https://public.tableau.com/views/KPIDashboard_17566782423960/Dashboard1?:language=en-GB)
 
